@@ -1,3 +1,6 @@
+# * Repository moved to design-resources *
+[frontpanel-hls new location](https://github.com/opalkelly-opensource/design-resources/tree/main/ExampleProjects/frontpanel-hls)
+
 # FrontPanel HLS FIR
 
 A basic example demonstrating use of a Vivado HLS module with the FrontPanel
